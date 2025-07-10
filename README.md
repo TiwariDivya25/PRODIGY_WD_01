@@ -13,7 +13,7 @@ This project is a responsive landing page built during my internship at **Prodig
 - JavaScript
 
 ### 🔗 Live Demo:
-[View Live](https://yourusername.github.io/responsive-landing-page)
+[View Live](https://tiwaridivya-chicthreads.netlify.app/)
 
 ---
 
